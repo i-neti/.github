@@ -11,6 +11,7 @@ Manage our specialists as your own employees.
 ### TASK-SPECIFIC WORK
 Pay only for effective works and hours of our specialists
 ##### 24 Month's warranty
+img title="logo1c" alt="Конфигуратор" src="docs/netilogo.png">
 
 ## OUR APPROACH HELPS YOU TO SCALE AND REDUCE COSTS
 * Confidentiality under NDA <br/>
