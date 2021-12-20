@@ -11,7 +11,6 @@ Manage our specialists as your own employees.
 ### TASK-SPECIFIC WORK
 Pay only for effective works and hours of our specialists
 ##### 24 Month's warranty
-![NetiLOgo](https://octodex.github.com/images/yaktocat.png)
 ![NetiLOgo](docs/netilogo.png)
 
 ## OUR APPROACH HELPS YOU TO SCALE AND REDUCE COSTS
