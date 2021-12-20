@@ -5,7 +5,7 @@ carry out your projects on a “turn-key” basis.
 
 
 ### FULL TIME
-Manage our specialists as your own employees.
+Manage our specialists as your own employees. 
 ##### 200+ 1C Senior and Middle staff developers and consultants
 
 ### TASK-SPECIFIC WORK
@@ -13,7 +13,7 @@ Pay only for effective works and hours of our specialists
 ##### 24 Month's warranty
 
 ## OUR APPROACH HELPS YOU TO SCALE AND REDUCE COSTS
-* Confidentiality under NDA
+* Confidentiality under NDA <br/>
 _We make an agreement on protection of data transferred. Our
 employees sign a non-disclosure agreement_
 * Individual SLA:
