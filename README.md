@@ -1,2 +1,0 @@
-# .github
-"nj ntcnjdfz cnhfybwd
