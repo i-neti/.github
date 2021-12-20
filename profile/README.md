@@ -8,7 +8,7 @@ carry out your projects on a “turn-key” basis.
 Manage our specialists as your own employees.
 ##### 200+ 1C Senior and Middle staff developers and consultants
 
-###TASK-SPECIFIC WORK
+### TASK-SPECIFIC WORK
 Pay only for effective works and hours of our specialists
 ##### 24 Month's warranty
 
