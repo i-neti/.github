@@ -19,7 +19,7 @@ employees sign a non-disclosure agreement_
 * Individual SLA:
  -_We agree the level of service with each customer: we ratify availability of specialists, reaction time and terms of works_
 * Seamless work: 
-* -_Your projects will not stop resulting from sick leaves or
+ -_Your projects will not stop resulting from sick leaves or
 annual leaves. If a developer gets ill, we will fast change a
 specialist_
 * Stable rates guarantee:
