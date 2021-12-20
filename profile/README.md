@@ -16,13 +16,13 @@ Pay only for effective works and hours of our specialists
 * Confidentiality under NDA
 _We make an agreement on protection of data transferred. Our
 employees sign a non-disclosure agreement_
-* Individual SLA
+* Individual SLA:
    _We agree the level of service with each customer: we ratify availability of specialists, reaction time and terms of works_
-* Seamless work
+* Seamless work:
 _Your projects will not stop resulting from sick leaves or
 annual leaves. If a developer gets ill, we will fast change a
 specialist_
-* Stable rates guarantee
+* Stable rates guarantee:
 _We record the rate in the agreement — you can plan your budget at ease_
 * Entry interview
 _Test a specialist before he gets down to the project to make
